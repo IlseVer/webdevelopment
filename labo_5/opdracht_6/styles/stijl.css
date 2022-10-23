@@ -1,0 +1,41 @@
+
+
+h1, h2, h3{
+    font-family: "Arial",Verdana, helvetica, sans-serif;
+}
+/* ik geef meerdere fonts mee, indien er een font niet beschikbaar zou zijn bij een bezoeker*/
+h1{
+    font-size: 1.8em;
+}
+h2{
+    font-size: 1.5em;
+}
+h3{
+    font-size: 1.4em;
+}
+p{
+    font-family: "Times New Roman", sans-serif, Arial, Verdana, helvetica;
+    font-size:1.2em;
+}
+.wat{
+    color: red;
+}
+
+.waar{
+    color: green;
+}
+/* */
+.waarom{
+    color:blue;
+}
+
+#fontgrootte1{
+    font-size: 2ex;
+}
+
+#fontgrootte2{
+    font-size: 2em;
+}
+.titel{
+    font-weight: bolder;
+}

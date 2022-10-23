@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a46d033-e0be-4eb3-99b6-a433666cbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo_4/opdracht_5/likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/opdracht_5/likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_6/styles/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_5/opdracht_7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -39,6 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -57,7 +68,12 @@
       <workItem from="1665216859835" duration="36818000" />
       <workItem from="1665559555136" duration="4196000" />
       <workItem from="1665775828759" duration="10822000" />
-      <workItem from="1665839148691" duration="2659000" />
+      <workItem from="1665839148691" duration="3046000" />
+      <workItem from="1666165452669" duration="2279000" />
+      <workItem from="1666529631213" duration="13933000" />
+      <workItem from="1666545846998" duration="260000" />
+      <workItem from="1666546295066" duration="130000" />
+      <workItem from="1666546442386" duration="637000" />
     </task>
     <servers />
   </component>
