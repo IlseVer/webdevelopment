@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a46d033-e0be-4eb3-99b6-a433666cbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/nature_blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/opdracht_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/styles/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/styles/kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_7/styles/nature.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/images/Queen.png" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/images/Queen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_3/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_3/homepage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -45,6 +56,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilse\Documents\GitHub\webdevelopment\labo_7\styles" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,6 +87,13 @@
       <workItem from="1667075304788" duration="3621000" />
       <workItem from="1667117467543" duration="10799000" />
       <workItem from="1667129444156" duration="232000" />
+      <workItem from="1667981676806" duration="4675000" />
+      <workItem from="1668099431335" duration="8253000" />
+      <workItem from="1668110467486" duration="460000" />
+      <workItem from="1668159232933" duration="3996000" />
+      <workItem from="1668163274416" duration="12387000" />
+      <workItem from="1668176153445" duration="32000" />
+      <workItem from="1668176233332" duration="6000" />
     </task>
     <servers />
   </component>
