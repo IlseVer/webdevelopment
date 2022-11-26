@@ -1,0 +1,79 @@
+body {
+    width: 95%;
+    font-family: Verdana, helvetica, Arial, sans-serif;
+    font-size: 1.2em;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #000000;
+}
+
+section {
+    width: 70%;
+    margin-left: 20px;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+.sidebar h1 {
+    color: #223666;
+}
+
+.sidebar h2 {
+    color: #56FF92;
+}
+
+footer {
+    font-size: 50%;
+}
+
+.sidebar a:hover {
+    background-color: brown;
+}
+
+.sidebar {
+    float: right;
+    width: 23%;
+    padding: 10px 20px 0 10px;
+    margin: 0 20px 0 20px;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+    border: 3px solid #a7cece;
+    text-align: center;
+}
+
+#guarantee {
+    background-color: #a7cece;
+    margin: 30px;
+    color: #444444;
+    border: 3px dotted #ffffff;
+    background-image: url("../images/background.gif");
+    background-repeat: no-repeat;
+    font-style: italic;
+    padding: 20px;
+    padding-left: 75px;
+}
+
+#guarantee a {
+    color: #444444;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+}

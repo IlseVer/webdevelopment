@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a46d033-e0be-4eb3-99b6-a433666cbf20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo_8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/opdracht_flexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo_8/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/Lorem_ipsum_extra_space.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/coctailbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/lorem_ipsum.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdracht_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/opdracht_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/styles/coctailbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/styles/loremipsum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/styles/loremipsum2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/styles/opdracht4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo_8/styles/opdracht5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_5/opdracht_4.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_5/opdracht_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_8/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -91,7 +101,13 @@
       <workItem from="1668278614506" duration="744000" />
       <workItem from="1668784014050" duration="4130000" />
       <workItem from="1668788527045" duration="1452000" />
-      <workItem from="1668848701707" duration="3058000" />
+      <workItem from="1668848701707" duration="4560000" />
+      <workItem from="1669191187338" duration="4226000" />
+      <workItem from="1669389444772" duration="14618000" />
+      <workItem from="1669490115137" duration="13376000" />
+      <workItem from="1669504123807" duration="92000" />
+      <workItem from="1669504403370" duration="297000" />
+      <workItem from="1669504785289" duration="329000" />
     </task>
     <servers />
   </component>

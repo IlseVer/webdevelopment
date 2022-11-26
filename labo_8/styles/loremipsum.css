@@ -1,0 +1,12 @@
+section {
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+}
+
+section div {
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+

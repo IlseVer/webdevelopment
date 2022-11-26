@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Opdracht 3</title>
+</head>
+<body>
+<header>
+    <h1>Opdracht 3</h1>
+    <p><img src="images/voorbeeld2.png" alt="voorbeeld2"></p>
+    <h2>Waarom staat de tekst in de blokken horizontaal gecentreerd?</h2>
+    <p>Dit komt door:</p>
+    <p>text-align:center; Hiermee wordt de tekst gecentreerd.</p>
+    <h2>Ga na dat een property vertical-align:center geen effect heeft. Waarom eigenlijk niet?</h2>
+    <p>Omdat center niet bestaat bij vertical-align, als je een div wil centreren moet je middle gebruiken.Het slaat op
+        de blok, niet op de text.</p>
+    <h2>Ga na dat vertical-align:middle er niet voor zorgt dat de tekst verticaal gecentreerd wordt. Wat doet
+        vertical-align dan wel?</h2>
+    <p>Centreert de div verticaal. Het element wordt geplaatst in het midden het het parent element.</p>
+    <h2>Wat is de 	&apos;simpele&apos; manier om een één enkele regel tekst verticaal te centreren?</h2>
+    <p>De line-height van het child element geef je dezelfde waarde als de
+        hoogte van het parent element. Het nadeel van deze methode is dat het alleen
+        werkt voor een woord of zin met een enkele regel.</p>
+    <p><img src="images/line-height.png" alt="line-height"></p>
+
+    <h2>Welke truc wordt vaak gebruikt om meerdere regels verticaal te centreren?</h2>
+    <p>Vertical-align is een CSS eigenschap waarmee je elementen verticaal kan centreren. Deze eigenschap werkt echter
+        alleen voor
+        tabellen en niet voor standaard block elementen. Door de block elementen te wijzigen naar table en table-cell
+        elementen kunnen
+        we echter wel gebruik maken van de vertical-align eigenschap. Het parent element geven we hierbij de waarde
+        &apos;table&apos; en de child
+        elementen krijgen de waarde 	&apos;table-cell&apos;.</p>
+    <p><img src="images/table-cell.png" alt="table-cell"></p>
+
+    <h2>Waarom krijgt de regel voor class 	&apos;tall&apos; voorrang?</h2>
+    <p>Omdat de css code van boven naar beneden wordt gelezen. Wanneer ik de tall boven de area plaats, neemt hij de
+        height van area,
+        wanneer ik de height van tall onder area plaats, neemt hij de height van tall aan.</p>
+
+
+</header>
+</body>
+</html>
