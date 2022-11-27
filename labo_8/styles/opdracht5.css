@@ -26,3 +26,8 @@ div {
     clear: both;
     background: blue;
 }
+
+article{
+    padding-top:20px;
+    clear:both;
+}
