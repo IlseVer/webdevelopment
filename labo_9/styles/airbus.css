@@ -82,7 +82,7 @@ header p:nth-child(even) {
 display: block;
 }
 
-.introduction article p{
+.introduction section p{
     margin:0;
     overflow:hidden;
 }
@@ -134,4 +134,7 @@ footer div:nth-child(3) {
 
 footer{
     width: 960px;
+}
+footer a {
+    color:white;
 }
