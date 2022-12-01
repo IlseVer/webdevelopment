@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a46d033-e0be-4eb3-99b6-a433666cbf20" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/labo_9/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/airbus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo_9/opdracht_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo_9/opdracht_1.html" afterDir="false" />
-    </list>
+    <list default="true" id="5a46d033-e0be-4eb3-99b6-a433666cbf20" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +96,7 @@
       <workItem from="1669795760949" duration="5576000" />
       <workItem from="1669904659914" duration="22729000" />
       <workItem from="1669929825877" duration="22000" />
-      <workItem from="1669930335784" duration="396000" />
+      <workItem from="1669930335784" duration="442000" />
     </task>
     <servers />
   </component>
