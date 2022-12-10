@@ -1,0 +1,21 @@
+
+.row div {
+    border: 5px solid white;
+}
+
+.bloklichtgrijs {
+    background-color: lightgray;
+    height: 150px;
+}
+
+.blokdonkergrijs {
+    background-color: #444444;
+    height: 150px;
+
+}
+
+.col-md-6.lichtgrijs {
+    display: inline-block;
+    float: left;
+
+}
